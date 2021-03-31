@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	
-	printf("Salve mondo da Gaetano :)");
+	printf("Salve mondo da Gaetano ");
 	
 	return 0;
 }
